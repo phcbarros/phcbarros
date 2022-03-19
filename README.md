@@ -1,11 +1,11 @@
-### <img src="https://avatars.githubusercontent.com/u/12138058?v=4" width="30px"> Hi there, I'm Paulo Barros!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Paulo Barros!
 
 
-## I'm a developer at Lambda3 and I'll be a father soon!
+## I'm a developer at Lambda3 and I'll be a father soon :baby_symbol:!
 
 - 🔭 I’m currently working on mobile apps with React Native
 - 🌱 I’m currently learning Docker, Kubernets and maybe Vim
-- 🔭 I like to learn about a lot of things like science, geopolitic and software development
+- :heart: I like to learn about a lot of things like science, geopolitic and software development
 - 💬 Ask me about animes (Naruto, One Piece, Dragon Ball Super, etc.)
 
 ### Connect with me:
