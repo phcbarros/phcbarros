@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Paulo Barros!
 
 
-## I'm a developer at Lambda3 and I'll be a father soon :baby_symbol:!
+## I'm a developer at Lambda3 and Fábio's father :baby_symbol:!
 
 - 🔭 I’m currently working on mobile apps with React Native
 - 🌱 I’m currently learning Docker, Kubernets and maybe Vim
